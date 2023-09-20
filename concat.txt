@@ -1,0 +1,1 @@
+Concatenation is combining or joining 2 strings
