@@ -1,0 +1,1 @@
+String is terminated by null character
